@@ -1,0 +1,30 @@
+.Sardines{
+    width: 100%;
+    height: 100vh;
+    background-image : url('./sardines.gif');
+    background-size: contain;
+    background-position: center top;
+    padding-top: 150px;
+}
+.Sardines-links{
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: 5px aquamarine solid;
+    padding: 30px;
+    width: 500px;
+    margin:0px auto;
+}
+
+.Sardines-links a{
+    text-decoration: none;
+    color: white;
+}
+.Sardines-links a:hover{
+    text-decoration: underline;
+    color: aquamarine;
+}
