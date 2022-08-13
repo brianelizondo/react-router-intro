@@ -4,7 +4,6 @@
     background-image : url('./sardines.gif');
     background-size: contain;
     background-position: center top;
-    padding-top: 150px;
 }
 .Sardines-links{
     background-color: rgba(0, 0, 0, 0.65);
@@ -17,7 +16,7 @@
     border: 5px aquamarine solid;
     padding: 30px;
     width: 500px;
-    margin:0px auto;
+    margin:150px auto 0px auto;
 }
 
 .Sardines-links a{

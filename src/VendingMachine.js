@@ -1,10 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import NavBar from "./NavBar";
 import './VendingMachine.css';
 
 function VendingMachine(){
     return (
         <div className="VendingMachine">
+            <div className="VendingMachine-navbar">
+                <NavBar />
+            </div>
             <div className="VendingMachine-title">
                 hello i am a vending machine. what would you like to eat?
             </div>

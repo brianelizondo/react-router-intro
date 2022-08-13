@@ -4,7 +4,6 @@
     background-image : url('./chips.gif');
     background-size: contain;
     background-position: center top;
-    padding-top: 100px;
 }
 .Chips-links{
     background-color: rgba(66, 211, 204, 0.75);
@@ -17,7 +16,7 @@
     border: 5px #f546c0 solid;
     padding: 30px;
     width: 350px;
-    margin:0px auto;
+    margin:150px auto 0px auto;
 }
 
 .Chips-links a{
